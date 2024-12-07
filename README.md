@@ -22,11 +22,12 @@ Tela de Estoques:
 Na opção Estoques, o usuário pode visualizar as categorias disponíveis: Estoque Escolar, Comida e Limpeza. Cada categoria exibe os itens cadastrados, permitindo ao usuário monitorar os recursos disponíveis em cada área.
 
 
-Vídeo 
+Vídeo e Fotos: Enviados via teams
 
 
 Jira 
 
-https://github.com/Vytor-Oliveira/estoque_escola_app
+[https://anteconix.atlassian.net/jira/software/projects/PAC24/pages](https://anteconix.atlassian.net/jira/software/projects/PAC24/pages)
+
 
 Autores : Bruno Saito, Bryan Locatelli,Carlos Magno, Erik Kestring, Gabriel da Silva, Vytor de Oliveira
