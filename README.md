@@ -29,4 +29,4 @@ Jira
 
 https://github.com/Vytor-Oliveira/estoque_escola_app
 
-Autores : Bruno Saito, Bryan Locatelli, Erik Kestring, Gabriel da Silva, Magno, Vytor de Oliveira
+Autores : Bruno Saito, Bryan Locatelli,Carlos Magno, Erik Kestring, Gabriel da Silva, Vytor de Oliveira
